@@ -74,6 +74,18 @@ const app = {
             path: "./assets/music/song6.mp3",
             image: "./assets/img/song6.jpg",
         },
+        {
+            name: "Họ yêu ai mất rồi",
+            singer: "Hoài Lâm",
+            path: "./assets/music/song7.mp3",
+            image: "./assets/img/song7.jpg",
+        },
+        {
+            name: "Ngày mai người ta đi lấy chồng",
+            singer: "Voi bản đôn - The Mask Singer",
+            path: "./assets/music/song8.mp3",
+            image: "./assets/img/song8.jpg",
+        },
     ],
 
     setConfig: function (key, value) {
