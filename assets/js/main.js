@@ -86,6 +86,36 @@ const app = {
             path: "./assets/music/song8.mp3",
             image: "./assets/img/song8.jpg",
         },
+        {
+            name: "Tôi là ai trong em",
+            singer: "ERIK",
+            path: "./assets/music/song9.mp3",
+            image: "./assets/img/song9.jpg",
+        },
+        {
+            name: "Shinzou wo Sasageyo",
+            singer: "Attack on Titan",
+            path: "./assets/music/song10.mp3",
+            image: "./assets/img/song10.jpg",
+        },
+        {
+            name: "Tình xa lúc ban chiều",
+            singer: "K-ICM",
+            path: "./assets/music/song11.mp3",
+            image: "./assets/img/song11.jpg",
+        },
+        {
+            name: "Năm ấy",
+            singer: "Đức Phúc",
+            path: "./assets/music/song12.mp3",
+            image: "./assets/img/song12.jpg",
+        },
+        {
+            name: "Ai mang em đi",
+            singer: "K-ICM x APJ",
+            path: "./assets/music/song13.mp3",
+            image: "./assets/img/song13.jpg",
+        },
     ],
 
     setConfig: function (key, value) {
