@@ -39,10 +39,10 @@ const app = {
 
     songs: [
         {
-            name: "Damn Song Raftaar Ft KrSNa",
-            singer: "Mr. Nair",
-            path: "./assets/music/song1.mp3",
-            image: "./assets/img/song1.jpg",
+            name: "Akuma No Ko by Crush",
+            singer: "Usetsu san",
+            path: "./assets/music/song15.mp3",
+            image: "./assets/img/song15.jpg",
         },
         {
             name: "Akuma No Ko",
@@ -115,6 +115,12 @@ const app = {
             singer: "K-ICM x APJ",
             path: "./assets/music/song13.mp3",
             image: "./assets/img/song13.jpg",
+        },
+        {
+            name: "Akuma No Ko Anime",
+            singer: "Usetsu san",
+            path: "./assets/music/song14.mp3",
+            image: "./assets/img/song14.jpg",
         },
     ],
 
