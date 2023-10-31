@@ -39,6 +39,12 @@ const app = {
 
     songs: [
         {
+            name: "Những kẻ mộng mơ",
+            singer: "Battle The Mask Singer",
+            path: "./assets/music/song16.mp3",
+            image: "./assets/img/song16.jpg",
+        },
+        {
             name: "Akuma No Ko by Crush",
             singer: "Usetsu san",
             path: "./assets/music/song15.mp3",
