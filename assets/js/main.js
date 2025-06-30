@@ -39,6 +39,18 @@ const app = {
 
     songs: [
         {
+            name: "Lệ Lưu Ly",
+            singer: "Remind",
+            path: "./assets/music/song18.mp3",
+            image: "./assets/img/song17.jpg",
+        },
+        {
+            name: "Loi Choi",
+            singer: "Remind",
+            path: "./assets/music/song17.mp3",
+            image: "./assets/img/song17.jpg",
+        },
+        {
             name: "Những kẻ mộng mơ",
             singer: "Battle The Mask Singer",
             path: "./assets/music/song16.mp3",
