@@ -39,6 +39,18 @@ const app = {
 
     songs: [
         {
+            name: "nàng thơ xứ Huế",
+            singer: "Remind",
+            path: "./assets/music/song20.weba",
+            image: "./assets/img/song17.jpg",
+        },
+        {
+            name: "Đồi hoa mặt trời",
+            singer: "Remind",
+            path: "./assets/music/song19.mp3",
+            image: "./assets/img/song17.jpg",
+        },
+        {
             name: "Lệ Lưu Ly",
             singer: "Remind",
             path: "./assets/music/song18.mp3",
