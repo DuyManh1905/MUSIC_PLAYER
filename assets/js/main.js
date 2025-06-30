@@ -39,7 +39,25 @@ const app = {
 
     songs: [
         {
-            name: "nàng thơ xứ Huế",
+            name: "Loài hoa đẹp nhất thảo nguyên",
+            singer: "Remind",
+            path: "./assets/music/song23.mp3",
+            image: "./assets/img/song17.jpg",
+        },
+        {
+            name: "Kẻ theo đuổi ánh sáng",
+            singer: "Remind",
+            path: "./assets/music/song22.mp3",
+            image: "./assets/img/song17.jpg",
+        },
+        {
+            name: "Tôi thấy hoa vàng trên cỏ xanh",
+            singer: "Remind",
+            path: "./assets/music/song21.m4a",
+            image: "./assets/img/song17.jpg",
+        },
+        {
+            name: "Nàng thơ xứ Huế",
             singer: "Remind",
             path: "./assets/music/song20.weba",
             image: "./assets/img/song17.jpg",
