@@ -39,6 +39,12 @@ const app = {
 
     songs: [
         {
+            name: "Ngày nay năm ấy",
+            singer: "Rock AI",
+            path: "./assets/music/song24.mp3",
+            image: "./assets/img/song17.jpg",
+        },
+        {
             name: "Loài hoa đẹp nhất thảo nguyên",
             singer: "Remind",
             path: "./assets/music/song23.mp3",
